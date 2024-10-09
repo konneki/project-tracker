@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		2F9DE1BF2CB7193A0065D929 /* project-tracker */ = {
+		2F9DE1DD2CB71A050065D929 /* project-tracker */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "project-tracker";
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		2F9DE1B42CB7193A0065D929 = {
 			isa = PBXGroup;
 			children = (
-				2F9DE1BF2CB7193A0065D929 /* project-tracker */,
+				2F9DE1DD2CB71A050065D929 /* project-tracker */,
 				2F9DE1BE2CB7193A0065D929 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2F9DE1BF2CB7193A0065D929 /* project-tracker */,
+				2F9DE1DD2CB71A050065D929 /* project-tracker */,
 			);
 			name = "project-tracker";
 			packageProductDependencies = (
